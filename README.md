@@ -3,8 +3,10 @@
 AI engineer in Seoul, working on multi-agent systems.
 
 **Now** — AI Engineer at itcen.
-AI agents and platform services for an enterprise agent platform.
-Also built an agent that automates code security reviews.
+- Work across an enterprise AI agent platform, from design to development — agents, backend, and frontend.
+- Contributing to the redesign of its multi-agent orchestration.
+- Built an agent that automates code security reviews and brought it into the team's dev workflow.
+- Delivered custom AI agents for client projects.
 
 **Before**
 - Samsung SW Academy For Youth (SSAFY), 13th — left after joining itcen
@@ -17,4 +19,4 @@ Also built an agent that automates code security reviews.
 
 I write about what I learn on [Velog](https://velog.io/@yoojkim).
 
-[LinkedIn](www.linkedin.com/in/yoojkimai)
+[LinkedIn](https://www.linkedin.com/in/yoojkimai)
