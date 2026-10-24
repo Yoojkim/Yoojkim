@@ -16,7 +16,3 @@ AI engineer in Seoul, working on multi-agent systems.
 - Restaurant-based social app — Parallelized external API calls with Spring WebFlux, ~12x faster.
 - Attendance management app — Flutter, on App Store and Google Play.
 - Obstacle detection for visually impaired pedestrians — On-device object detection and camera-based distance estimation.
-
-I write about what I learn on [Velog](https://velog.io/@yoojkim).
-
-[LinkedIn](https://www.linkedin.com/in/yoojkimai)
